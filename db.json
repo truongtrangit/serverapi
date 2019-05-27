@@ -1,24 +1,29 @@
 {
-    "get": [
+    "profile": [
         {
             "id": 1,
-            "name" : "Nguyễn Lê Điền"
+            "name" : "Nguyễn Lê Điền",
+            "account": "leader"
         },
         {
             "id": 2,
-            "name" : "Phan Văn Phước Thịnh"
+            "name" : "Phan Văn Phước Thịnh",
+            "account": "employee"
         },
         {
             "id": 3,
-            "name" : "Nguyễn Trường Tráng"
+            "name" : "Nguyễn Trường Tráng",
+            "account": "employee"
         },
         {
             "id": 4,
-            "name" : "Pha  Thị Thùy Dương"
+            "name" : "Pha  Thị Thùy Dương",
+            "account": "employee"
         },
         {
             "id": 5,
-            "name" : "Đặng Thị Duyên"
+            "name" : "Đặng Thị Duyên",
+            "account": "employee"
         }
     ]
 }
