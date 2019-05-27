@@ -1,22 +1,24 @@
-[
-    {
-        "id": 1,
-        "name" : "Nguyễn Lê Điền"
-    },
-    {
-        "id": 2,
-        "name" : "Phan Văn Phước Thịnh"
-    },
-    {
-        "id": 3,
-        "name" : "Nguyễn Trường Tráng"
-    },
-    {
-        "id": 4,
-        "name" : "Pha  Thị Thùy Dương"
-    },
-    {
-        "id": 5,
-        "name" : "Đặng Thị Duyên"
-    }
-]
+{
+    "get": [
+        {
+            "id": 1,
+            "name" : "Nguyễn Lê Điền"
+        },
+        {
+            "id": 2,
+            "name" : "Phan Văn Phước Thịnh"
+        },
+        {
+            "id": 3,
+            "name" : "Nguyễn Trường Tráng"
+        },
+        {
+            "id": 4,
+            "name" : "Pha  Thị Thùy Dương"
+        },
+        {
+            "id": 5,
+            "name" : "Đặng Thị Duyên"
+        }
+    ]
+}
